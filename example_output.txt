@@ -1,0 +1,16 @@
+Bunker Keyword: DISCREPANTLY
+English Alphabet: ABCDEFGHIJKLMNOPQRSTUVWXYZ
+Cipher Alphabet: DISCREPANTLYBFGHJKMOQUVWXZ
+Code Piece 1: C9
+Code Piece 2: D3
+Code Piece 3: E8
+Code Piece 4: F9
+Code Piece 5: K2
+Code Piece 6: N0
+Code Piece 7: O7
+Code Piece 8: P2
+Decrypted Code Word: DRAFTING
+Re-Encrypted Code Word: CKDEONFP
+*********************
+*NUKE CODE: 92387092*
+*********************
